@@ -1,0 +1,104 @@
+main h1 {
+    text-align: center;
+    
+}
+main h2 {
+    text-align: center;
+}
+main img {
+    display: block;
+    margin: 0 auto;
+}
+header nav {
+    text-align: center;
+}
+
+body {
+    background-color: aliceblue;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #c9fac3;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: rgb(255, 255, 255);
+    background-color: rgb(59, 252, 0);
+    border-radius: 15px;
+    font-size: 24px;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: #07ec2d;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 26px;
+    color: #4bca25;
+    text-align: center;
+}
+
+.section {
+    background-color: #77f5e0;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+    margin: 10px auto;
+    max-width: 800px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td {
+    background-color: #f5e077;
+    padding: 15px;
+    font-size: 18px;
+    text-align: left;
+    vertical-align: top;
+}
+
+img {
+    border-radius: 10px;
+    margin: 10px;
+}
+
+footer {
+    background-color: #fac7c3;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+footer a {
+    margin: 5px;
+}
+.free {
+    color: rgb(54, 124, 32)
+}
+main b {
+    color: rgb(41, 55, 185)
+}
+main i {
+    color: rgb(139, 8, 8)
+}
